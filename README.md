@@ -1,4 +1,4 @@
-![Snake](https://raw.githubusercontent.com/Duoqixiaozei/Duoqixiaozei/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Duoqixiaozei/Duoqixiaozei/blob/main/github-contribution-grid-snake.svg)
 ## Hi there 👋
 
 I'm Duoqixiaozei, and I'm glad to meet you here!
